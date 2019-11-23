@@ -1,6 +1,6 @@
 # Navigation
 
-# Links:
+# Links
 1. 
 2. 
 
