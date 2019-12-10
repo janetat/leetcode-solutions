@@ -1,2 +1,2 @@
-# LeetCodeStuff
-LeetCode playground
+# leetcode-solutions
+My LeetCode playground
